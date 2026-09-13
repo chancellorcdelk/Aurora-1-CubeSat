@@ -4,7 +4,7 @@ AURORA-1 is an independent preliminary design study for a **2U Earth-observation
 
 The project integrates mission design, requirements development, subsystem trades, orbit analysis, power budgeting, communications analysis, ADCS modeling, thermal analysis, mass properties, and Autodesk Fusion CAD packaging.
 
-![AURORA-1 CAD](cad/screenshots/AURORA1_External_View.png)
+![AURORA-1 CAD](matlab/matlab/matlab/docs/cad/screenshots/AURORA1_External_View.png)
 
 ## Key Results
 
