@@ -26,7 +26,15 @@ MATLAB • Autodesk Fusion • Microsoft Excel • Systems Engineering • Trade
 - Preliminary Design Report
 - One-Page Portfolio Summary
 - Design Review Presentation
+## ADCS Modeling & Simulation
 
+Aurora-1 now includes a MATLAB/Simulink single-axis attitude-control simulation featuring proportional-derivative feedback, actuator torque saturation, and spacecraft rotational dynamics.
+
+The initial simulation demonstrates a smooth 10° pointing maneuver with negligible visible overshoot and decreasing pointing error under nominal conditions.
+
+**[View ADCS Simulation, Results & Documentation](simulations/ADCS/README.md)**
+
+Future development includes disturbance modeling, three-axis attitude control, and AI/ML-assisted fault detection.
 ## Status
 
 Preliminary digital design baseline complete. Future work includes orbital lifetime analysis, higher-fidelity thermal modeling, EPS refinement, and three-axis ADCS analysis.
