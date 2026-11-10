@@ -17,6 +17,12 @@ The project integrates mission design, requirements development, subsystem trade
 - Simulated final pointing error: **0.382°**
 - 2U architecture selected through a 1U vs. 2U trade study
 
+## Mission Control
+
+[Open the AURORA-1 Mission Control repository]([PASTE_MISSION_CONTROL_REPO_URL](https://github.com/chancellorcdelk/aurora-1-mission-control))
+
+See how the ground dashboard receives simulated pointing data over HTTP, detects when telemetry goes stale, and recovers when the feed resumes.
+
 ## Tools
 
 MATLAB • Autodesk Fusion • Microsoft Excel • Systems Engineering • Trade Studies • Power Budgeting • Link Budgeting • Thermal Modeling • ADCS Analysis • CAD Packaging
