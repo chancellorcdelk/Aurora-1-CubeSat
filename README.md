@@ -19,7 +19,7 @@ The project integrates mission design, requirements development, subsystem trade
 
 ## Mission Control
 
-[Open the AURORA-1 Mission Control repository]([PASTE_MISSION_CONTROL_REPO_URL](https://github.com/chancellorcdelk/aurora-1-mission-control))
+[Open the AURORA-1 Mission Control repository](https://github.com/chancellorcdelk/aurora-1-mission-control)
 
 See how the ground dashboard receives simulated pointing data over HTTP, detects when telemetry goes stale, and recovers when the feed resumes.
 
